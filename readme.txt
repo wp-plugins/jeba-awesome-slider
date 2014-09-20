@@ -1,7 +1,7 @@
-=== Jeba Cute Awesome Slider ===
+=== Jeba Awesome Slider ===
 Tags: Jeba Awesome Slider, Jeba Cute Awesome Slider, awesome Awesome Slider, jeba Awesome Slider, post Awesome Slider, jeba 
 Requires at least: 3.0.1
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -23,15 +23,15 @@ e.g.
 1. Upload `plugin-directory` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Use shortcode in page, post or in widgets.
-4. If you want use the jeba cute Awesome Slider in your theme php, Place `<?php echo do_shortcode('[jeba_Awesome]'); ?>` in your templates.
-5. In the [jeba_Awesome] shortcode you can change post_type="", category="", count="" . Here count is total post. 
+4. If you want use the jeba cute Awesome Slider in your theme php, Place `<?php echo do_shortcode('[jeba_awesome]'); ?>` in your templates.
+5. In the [jeba_awesome] shortcode you can change post_type="", category="", count="" . Here count is total post. 
 Shortcodes
 
 <strong>Use Jeba Cute Awesome Slider shortcode</strong>
-<pre>[jeba_Awesome]</pre>
+<pre>[jeba_awesome]</pre>
 
 <strong>Here can change</strong>
-<pre>[jeba_Awesome post_type="" category="" count=""]</pre>
+<pre>[jeba_awesome post_type="" category="" count=""]</pre>
 
 == Frequently Asked Questions ==
 = How can change post_type="" category="" count=""? =
