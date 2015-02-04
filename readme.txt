@@ -12,7 +12,7 @@ Jeba Cute Awesome Slider is an awesome Awesome Slider, super lightweight plugin 
 
 This plugin will enable awesome Awesome Slider in your wordpress theme. You can use the jeba cute Awesome Slider via shortcode in everywhere you want, even in theme files. 
 
-Wanna see how it works? Click here: http://prowpexpert.com/jeba-awesome-slider/
+Wanna see how it works? Click here: http://prowpexpert.com/demo/?page_id=123
 
 == Installation ==
 
